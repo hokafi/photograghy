@@ -1,0 +1,7 @@
+{
+  "name": "photograpgy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
